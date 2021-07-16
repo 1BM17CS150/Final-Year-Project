@@ -1,0 +1,13 @@
+# Intermediate files
+*.pickle
+*.data*
+*.index
+*.meta
+*tfevents*
+checkpoint
+*.tfrecords
+
+# Excluded folders (due to size and importance)
+__pycache__/
+output/
+dataset/
